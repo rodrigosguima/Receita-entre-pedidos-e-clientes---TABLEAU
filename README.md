@@ -1,6 +1,6 @@
 # Receita-entre-pedidos-e-clientes---TABLEAU
 
-Este estudo trata dados cedidos pela empresa Olist onde foi possível através do tableau analisar a receita entre pedidos e clientes num determinado período de tempo.
+Este estudo trata dados cedidos pela empresa O**** onde foi possível através do tableau analisar a receita entre pedidos e clientes num determinado período de tempo.
 ![image](https://user-images.githubusercontent.com/106884788/233864375-b916e82f-8a51-4486-9321-eda51ddfb70c.png)
 ![image](https://user-images.githubusercontent.com/106884788/233864410-3cb47d4b-6bb5-4f00-8edd-2d2a962c4d54.png)
 ![image](https://user-images.githubusercontent.com/106884788/233864444-e2dd2968-a76f-45c2-887b-34177309304f.png)
